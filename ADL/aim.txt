@@ -1,0 +1,26 @@
+prac 1
+Implement Feed Forward Neural Network and train network with different optimizers and compare results.
+
+prac 2
+ Write a program to Implement regularization to prevent the model from overfitting.
+
+prac 3
+ Implement deep learning for recognizing classesfor datasets like CIFAR-10 images for previously unseen images and assign them to one of the 10 classes
+
+prac 4
+ Implement deep learning for the Prediction of the autoencoder from the test data (e.g. MNIST data set)
+
+prac 5
+Implement Convolutional Neural Network for Digit Recognition on the MNIST Dataset
+ 
+prac 6
+Write a program to implement Transfer Learning on the suitable dataset (e.g. classify the cats versus dogs dataset from Kaggle).
+
+prac 7
+(4-to-1 RNN) to show that the quantity of rain on a certain day also depends on the values of the previous day
+
+prac 8
+Write a program for object detection from the image/video
+
+Prac 9
+Write a program for object detection using pretrained models to use object detection
