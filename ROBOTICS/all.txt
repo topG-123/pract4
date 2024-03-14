@@ -43,6 +43,7 @@ put piUpload.txt
 
 
 ####################################Practical 3 ######################################
+https://bitly.ws/3fSzF
 
 #include <Servo.h>
 Servo myservo;
@@ -76,6 +77,7 @@ print("performed by name")
 
 #################################### Practical 5A ######################################
 
+
 import time
 import random
 def read_sensor():
@@ -91,6 +93,8 @@ if __name__ == '__main__':
     print("Performed By NAME")
 
 #################################### Practical 5B ######################################
+https://bitly.ws/3fSzU
+
 
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7);
@@ -108,6 +112,8 @@ void loop() {
 }
 
 #################################### Practical 6 ######################################
+https://bitly.ws/3fSA3
+
 
 #include <Adafruit_NeoPixel.h>
 #define PIN 2
